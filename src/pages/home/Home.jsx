@@ -15,7 +15,7 @@ function Home() {
            Web Developer
         </h1>
         <p className="home__description">
-        I believe that every line of code has the potential to create something extraordinary, and I'm determined to harness that potential.While coding is my passion, I also believe in the importance of maintaining a well-rounded life. Outside of the digital world, I'm an avid Cricketer, Musician enthusiast. 
+        I believe that every line of code has the potential to create something extraordinary, and I'm determined to harness that potential.While coding is my passion, I also believe in the importance of maintaining a well-rounded life. Outside of the digital world, I'm an avid Cricketer, pious believer. 
         </p>
 
 
