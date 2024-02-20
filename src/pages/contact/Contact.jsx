@@ -20,7 +20,7 @@ function Contact() {
 
   const notify = ()=>{
    
-    toast("message sent successfully")
+    toast("message send successfully")
   }
   const sendEmail = () => {
    
