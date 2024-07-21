@@ -22,7 +22,7 @@ function About() {
               <Info />
             </ul>
             <a href={CV} download="" className="button">
-              Download CV{" "}
+              Download Resume{" "}
               <span className="button__icon">
                 <FaDownload />
               </span>
